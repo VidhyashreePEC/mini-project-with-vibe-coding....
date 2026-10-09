@@ -1,0 +1,8 @@
+{
+  "name": "InnovAI Hub - Startup Idea Validation & Project Planning",
+  "description": "Enterprise AI-powered platform for startup idea validation, intelligent project planning, financial modeling, IEEE SRS generation, and risk turnaround audits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
